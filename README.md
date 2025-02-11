@@ -17,6 +17,7 @@
 
 #### Folder Structure
 
+``` bash
 ├── init.lua
 ├── lazy-lock.json
 └── lua
@@ -31,4 +32,4 @@
     │   └── treesitter.lua
     └── vim-options.lua
 
-
+```
